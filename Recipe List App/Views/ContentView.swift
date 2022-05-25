@@ -31,7 +31,7 @@ struct ContentView: View {
                 
                 
                 
-            }.navigationBarTitle("All Recipes")
+            }.navigationBarTitle("All of the Recipes")
         }
         
     }
