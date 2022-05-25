@@ -10,5 +10,5 @@ import Foundation
 
 struct MyModel
 {
-    var name:String = "Rishabh"
+    var name:String = "Hello Rishabh"
 }
