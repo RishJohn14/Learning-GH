@@ -16,6 +16,7 @@
 		DA041777283D26DE00D5B6AF /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA041776283D26DE00D5B6AF /* RecipeModel.swift */; };
 		DA041779283D27FD00D5B6AF /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA041778283D27FD00D5B6AF /* DataService.swift */; };
 		DA04177B283E299D00D5B6AF /* Recipe Detail View.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA04177A283E299D00D5B6AF /* Recipe Detail View.swift */; };
+		DA0417A6283E624400D5B6AF /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0417A5283E624400D5B6AF /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		DA041776283D26DE00D5B6AF /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		DA041778283D27FD00D5B6AF /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		DA04177A283E299D00D5B6AF /* Recipe Detail View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Recipe Detail View.swift"; sourceTree = "<group>"; };
+		DA0417A5283E624400D5B6AF /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				DA041770283D243800D5B6AF /* Data */,
 				DA041763283D23C300D5B6AF /* Assets.xcassets */,
 				DA041765283D23C300D5B6AF /* Preview Content */,
+				DA0417A5283E624400D5B6AF /* MyModel.swift */,
 			);
 			path = "Recipe List App";
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA041775283D25C800D5B6AF /* Recipe.swift in Sources */,
+				DA0417A6283E624400D5B6AF /* MyModel.swift in Sources */,
 				DA04177B283E299D00D5B6AF /* Recipe Detail View.swift in Sources */,
 				DA041777283D26DE00D5B6AF /* RecipeModel.swift in Sources */,
 				DA041762283D23BB00D5B6AF /* ContentView.swift in Sources */,
